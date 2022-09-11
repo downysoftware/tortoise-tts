@@ -7,6 +7,8 @@ Tortoise is a text-to-speech program built with the following priorities:
 
 This repo contains all the code needed to run Tortoise TTS in inference mode.
 
+[![Open In Colab](https://colab.research.google.com/drive/1cSwT9tBT0oMaeODn-lUgSdn9C-HtcgIH?usp=sharing)
+
 ### Version history
 
 #### v2.4; 2022/5/17
